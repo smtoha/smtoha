@@ -89,7 +89,17 @@ A public study-focused application project centered on learning workflows and st
 
 </div>
 
-## 02 — GitHub activity
+## 02 — The commit snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/smtoha/smtoha/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across GitHub contribution squares" width="100%"/>
+
+<sub>The snake animation is generated from your GitHub contribution calendar. The workflow refreshes it daily.</sub>
+
+</div>
+
+## 03 — GitHub activity
 
 <div align="center">
 
@@ -100,7 +110,7 @@ A public study-focused application project centered on learning workflows and st
 
 </div>
 
-## 03 — How I build
+## 04 — How I build
 
 <div align="center">
 
