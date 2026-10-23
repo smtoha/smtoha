@@ -1,77 +1,117 @@
 <div align="center">
 
-# Hi, I'm S.M. Toha 👋
+<img src="assets/profile-banner.svg" alt="S.M. Toha — Developer, Builder, Dreamer" width="100%"/>
 
-### Full-Stack Developer · CSE Student · Problem Solver
+### I build things that make ideas real.
 
-I build practical web applications, explore AI-powered experiences, and enjoy turning ideas into working products.
+**Full-Stack Developer · AI Explorer · CSE Student**
 
-[![GitHub](https://img.shields.io/badge/GitHub-smtoha-181717?style=for-the-badge&logo=github)](https://github.com/smtoha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-m-toha-433007403/)
+[![GitHub](https://img.shields.io/badge/EXPLORE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smtoha?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-toha-433007403/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🎓 Computer Science & Engineering student at Daffodil International University
-- 💻 Interested in full-stack development, AI, and developer tools
-- 🧩 Enjoy building useful products and solving real-world problems
-- 🌱 Always learning, experimenting, and improving my engineering skills
-- 🤝 Open to collaboration, internships, and interesting projects
+## whoami
 
-## 🛠️ Tech Stack
+I'm **S.M. Toha**, a Computer Science & Engineering student who enjoys building useful products across web development, AI, and developer tooling.
 
-**Languages**
+- 🎓 Daffodil International University
+- 🧠 Curious about AI-powered products and practical engineering
+- 🧪 I learn by designing, building, testing, and iterating
+- 🤝 Open to collaborations and meaningful projects
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</td>
+<td width="42%" valign="top">
 
-**Web & Database**
+## current_stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**BUILD**
 
-## 🚀 Featured Public Projects
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
 
-### [BongoScript Project](https://github.com/smtoha/bongoscript_project)
-A programming-language/compiler project. Explore the repository for implementation details and supported features.
+**THINK**
 
-### [Study Buddy Hub](https://github.com/smtoha/study-buddy-hub)
-A study-focused project designed to support learning and study workflows.
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-### [Bns](https://github.com/smtoha/Bns)
-Explore this repository and its source code.
+</td>
+</tr>
+</table>
 
-[**Browse all my public repositories →**](https://github.com/smtoha?tab=repositories)
+## 01 / SELECTED WORK
 
-## 📈 GitHub Snapshot
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 BongoScript
+
+A programming-language / compiler project exploring language design and implementation.
+
+[**Inspect the code ↗**](https://github.com/smtoha/bongoscript_project)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Study Buddy Hub
+
+A study-focused application project built around learning and study workflows.
+
+[**Explore repository ↗**](https://github.com/smtoha/study-buddy-hub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ ShopixxoBD
+
+An e-commerce project in my portfolio. Visit the repository to explore the current implementation.
+
+[**Explore repository ↗**](https://github.com/smtoha/shopixxobd)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 More experiments
+
+I also work on smaller builds and experiments across web apps and developer tools.
+
+[**Browse all public repos ↗**](https://github.com/smtoha?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 02 / ACTIVITY SIGNAL
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtoha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtoha&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=smtoha&theme=tokyonight&hide_border=true)](https://github.com/smtoha)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smtoha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=36D7FF&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtoha&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
-## 🤝 Connect
-
-- GitHub: [@smtoha](https://github.com/smtoha)
-- LinkedIn: [S.M. Toha](https://www.linkedin.com/in/s-m-toha-433007403/)
+---
 
 <div align="center">
 
-*Build. Learn. Iterate. Repeat.*
+### Have an interesting idea? Let's build it.
+
+[GitHub](https://github.com/smtoha) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/s-m-toha-433007403/)
+
+<sub>DESIGN → BUILD → TEST → ITERATE</sub>
 
 </div>
