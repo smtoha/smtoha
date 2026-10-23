@@ -104,7 +104,8 @@ A public study-focused application project centered on learning workflows and st
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=smtoha&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile achievement trophies"/>
+<a href="https://github.com/smtoha?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-Projects-34204B?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Explore open source projects"/></a>
+<a href="https://github.com/smtoha?tab=stars"><img src="https://img.shields.io/badge/COMMUNITY-Always_learning-21152F?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Always learning"/></a>
 
 </div>
 
@@ -112,10 +113,15 @@ A public study-focused application project centered on learning workflows and st
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smtoha&bg_color=17131F&color=E9D5FF&line=B68AFF&point=F0ABFC&area=true&hide_border=true&custom_title=Contribution%20Rhythm" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/smtoha?tab=repositories"><img src="https://img.shields.io/badge/CONTRIBUTIONS-Explore_my_work-34204B?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Explore my GitHub work"/></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smtoha&show_icons=true&hide_border=true&bg_color=17131F&title_color=C4A1FF&icon_color=E6A8FF&text_color=E9E3F2&ring_color=B68AFF" alt="GitHub statistics for smtoha"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtoha&layout=compact&hide_border=true&bg_color=17131F&title_color=C4A1FF&text_color=E9E3F2" alt="Top languages for smtoha"/>
+<sub>Live contribution graphs can be unavailable when third-party services are down, so this section links directly to your GitHub activity and repositories.</sub>
+
+<a href="https://github.com/smtoha?tab=repositories"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=smtoha&show_icons=true&hide_border=true&bg_color=17131F&title_color=C4A1FF&icon_color=E6A8FF&text_color=E9E3F2&ring_color=B68AFF&include_all_commits=true" alt="GitHub statistics for smtoha"/></a>
+
+<br/>
+
+<a href="https://github.com/smtoha?tab=repositories"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtoha&layout=compact&hide_border=true&bg_color=17131F&title_color=C4A1FF&text_color=E9E3F2" alt="Top languages for smtoha"/></a>
 
 </div>
 
