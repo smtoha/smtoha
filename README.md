@@ -4,6 +4,8 @@
 
 <a href="https://github.com/smtoha"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C4A1FF&center=true&vCenter=true&width=650&lines=Full-stack+developer+in+progress;Building+useful+digital+experiences;Exploring+AI+and+developer+tools;Learn+%E2%86%92+Build+%E2%86%92+Iterate" alt="Animated developer tagline"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=smtoha&style=flat-square&color=8B5CF6&label=PROFILE+VISITS" alt="Profile visits"/>
+
 **CSE Student · Full-Stack Development · AI & Developer Tools**
 
 [![GitHub](https://img.shields.io/badge/EXPLORE_REPOSITORIES-21152F?style=for-the-badge&logo=github&logoColor=E9D5FF)](https://github.com/smtoha?tab=repositories)
@@ -87,6 +89,9 @@ A public study-focused application project centered on learning workflows and st
 
 [![Browse repositories](https://img.shields.io/badge/BROWSE_ALL_PUBLIC_REPOSITORIES-34204B?style=for-the-badge&logo=github&logoColor=E9D5FF)](https://github.com/smtoha?tab=repositories)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smtoha&repo=bongoscript_project&hide_border=true&bg_color=17131F&title_color=C4A1FF&text_color=E9E3F2&icon_color=E6A8FF" alt="BongoScript repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smtoha&repo=study-buddy-hub&hide_border=true&bg_color=17131F&title_color=C4A1FF&text_color=E9E3F2&icon_color=E6A8FF" alt="Study Buddy Hub repository card"/>
+
 </div>
 
 ## 02 — The commit snake
@@ -96,6 +101,10 @@ A public study-focused application project centered on learning workflows and st
 <img src="https://raw.githubusercontent.com/smtoha/smtoha/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across GitHub contribution squares" width="100%"/>
 
 <sub>The snake animation is generated from your GitHub contribution calendar. The workflow refreshes it daily.</sub>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=smtoha&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile achievement trophies"/>
 
 </div>
 
